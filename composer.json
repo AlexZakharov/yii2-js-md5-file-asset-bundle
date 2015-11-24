@@ -1,0 +1,25 @@
+{
+    "name": "kfosoft/yii2-js-md5-file-asset-bundle",
+    "description": "Yii2 JS md5_file Asset Bundle",
+    "keywords": [
+        "yii2",
+        "md5",
+        "md5-js",
+        "yii2 md5 js",
+        "yii2 js md5 file"
+    ],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Cyril Turkevich",
+            "email": "cyril.turkevich@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "kfosoft/yii2-js-spark-md5-asset-bundle": "*"
+    },
+    "autoload": {
+        "psr-4": {"kfosoft\\yii2\\": ""}
+    }
+}
