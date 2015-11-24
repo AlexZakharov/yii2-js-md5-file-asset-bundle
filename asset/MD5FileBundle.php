@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 class MD5FileBundle extends AssetBundle
 {
     /** @var string path to source folder */
-    public $sourcePath = '@vendor/kfosoft/yii2-md5-file-asset-bundle/asset/assets';
+    public $sourcePath = '@vendor/kfosoft/yii2-js-md5-file-asset-bundle/asset/assets';
 
     /** @var array js files. */
     public $js = [
